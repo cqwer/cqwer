@@ -1,4 +1,5 @@
 ARF Community
 
 cqwer-scripts
-Satın Aldığınız İçin Teşekkürler :)
+
+Paylaşırken isim vermeyi unutmayınız. :)
